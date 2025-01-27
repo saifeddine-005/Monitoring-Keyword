@@ -1,17 +1,7 @@
 # Monitoring-Keyword
 Keyword Monitor is a web application built with Laravel framework. It allows users to track the position of their website for specific keywords on search engines like Google. The application provides features such as:
 
-screenshot
-
-screenshot 1
-
-screenshot 2
-
-screenshot 3
-
-screenshot 4
-
-Features
+Features :
 Keyword management: Add, edit, and delete keywords to track.
 Search engine selection: Choose the service to track (e.g., google.selenium, tools.seo.ai).
 Position tracking: Monitor the position of your website for each keyword on the selected search engine.
@@ -23,7 +13,7 @@ Vue.js 3 with Inertia.js for the frontend
 Tailwind CSS for styling
 Configuration files for Vite, Tailwind, and PHPUnit
 Installation
-Clone the repository: git clone https://github.com/yasinkuyu/keyword-monitor.git
+Clone the repository: git clone https://github.com/saifeddine-005/Monitoring-Keyword 
 Navigate to the project directory: cd keyword-monitor
 Install dependencies: composer install and npm install
 Copy the environment file: cp .env.example .env
